@@ -1,3 +1,6 @@
+/**
+ *
+ */
 public with sharing class AddStoryExtension
 {
     public String Msg{get;set;}
